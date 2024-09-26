@@ -1,6 +1,6 @@
 <!-- _coverpage.md -->
 
-# Tomx<font size=4><sup>©</sup></font>
+# Tomx<sup>©</sup>
 
 > <p align="left"><font color=Blue><font size=2>💪 本博客名字是英文单词首字母拼写组成，寓意用技术去打开运维世界之门而努力成为行业top，致自己最热爱的IT运维工作，把我的实战运维知识笔记整理分享出来，也算向开源世界回馈点个人贡献吧，嘿嘿 ~ </font></font></p> 
 
