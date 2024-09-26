@@ -28,7 +28,7 @@
 
 ##　1.应用软件维护
 
-#### [1.维护网站点播mp4视频、解决加载缓慢和黑屏视频只有声音问题](https://mp.weixin.qq.com/s?__biz=MzI2MjUzMzU2MQ==&mid=2247483716&idx=1&sn=7f8ad39a69f9750c56679b2e6169fd9a&chksm=ea48f992dd3f7084cb05c30187c89cd7f513e65a821173a2d8b3f265048fc859b228344f647d#rd)
+[1.维护网站点播mp4视频、解决加载缓慢和黑屏视频只有声音问题](https://mp.weixin.qq.com/s?__biz=MzI2MjUzMzU2MQ==&mid=2247483716&idx=1&sn=7f8ad39a69f9750c56679b2e6169fd9a&chksm=ea48f992dd3f7084cb05c30187c89cd7f513e65a821173a2d8b3f265048fc859b228344f647d#rd)
 
 ##　2.主机硬件维护
 
@@ -38,7 +38,7 @@
 
  ##　2.视频类
 
-#### <a id="ffmpeg.bat"> [1.利用windows批处理bat文件快速执行视频转码](https://mp.weixin.qq.com/s?__biz=MzI2MjUzMzU2MQ==&mid=2247483734&idx=1&sn=a15fda0ffdd27da10fcf844efc07c5cb&chksm=ea48f980dd3f70967ef115758ba58a3a22f1ea0383b8812c4a11b90fc3424c0db58af4efbc8f#rd)</a></a>
+<a id="ffmpeg.bat"> [1.利用windows批处理bat文件快速执行视频转码](https://mp.weixin.qq.com/s?__biz=MzI2MjUzMzU2MQ==&mid=2247483734&idx=1&sn=a15fda0ffdd27da10fcf844efc07c5cb&chksm=ea48f980dd3f70967ef115758ba58a3a22f1ea0383b8812c4a11b90fc3424c0db58af4efbc8f#rd)</a></a>
 
 ##　3.图像类
 
@@ -69,7 +69,7 @@ for /f "delims=" %%i in ('dir /s/b *.*') do (
 ## 1.问题排查Linux
 ## 2.问题排查windows
 
-#### [1.记录解决安装VMware报错Microsoft Runtime DLL安装程序未能完成...](https://mp.weixin.qq.com/s?__biz=MzI2MjUzMzU2MQ==&mid=2247483760&idx=1&sn=191e4f693a5389ac37e061d763c400fd&chksm=ea48f9a6dd3f70b0a7fac27e16ed593a8b56b9189d9ef0c1c3e1908062b74198ed22f41ca21f#rd)
+[1.记录解决安装VMware报错Microsoft Runtime DLL安装程序未能完成...](https://mp.weixin.qq.com/s?__biz=MzI2MjUzMzU2MQ==&mid=2247483760&idx=1&sn=191e4f693a5389ac37e061d763c400fd&chksm=ea48f9a6dd3f70b0a7fac27e16ed593a8b56b9189d9ef0c1c3e1908062b74198ed22f41ca21f#rd)
 
 # 八、研究指标监控笔记
 
