@@ -14,14 +14,20 @@
 
  ## 1.工具软件收藏Linux
 
+[1.Linux模糊搜索神器FZF工具](https://www.toutiao.com/article/7419976751167603236/)
+
  ## 2.工具软件收藏windows
 
-[1.Windows下７款我喜欢的监控主机存活软件工具推](https://mp.weixin.qq.com/s?__biz=MzI2MjUzMzU2MQ==&mid=2247483710&idx=1&sn=341f5b24421f39b0bd1f9027502de0bb&chksm=ea48f9e8dd3f70fe301ec645f516a8a6996d56bf32c64407fb4ff0671d076fb6c3b9c316bdb7#rd)
+[1.推荐绿色小巧 C++ 编写最好用的Windows桌面远程连接工具](https://www.toutiao.com/article/7419947803209761292/)
 
 #  二、虚拟化容器化数据库分享
 
   ## 1.虚拟化技术
+
   ## 2.容器化技术
+
+[1.Docker基础简介](https://www.toutiao.com/article/7419992884658586175/)
+
   ## 3.数据库技术
 
 # 三、网站维护技术分享
@@ -29,6 +35,8 @@
 ##　1.应用软件维护
 
 [1.维护网站点播mp4视频、解决加载缓慢和黑屏视频只有声音问题](https://mp.weixin.qq.com/s?__biz=MzI2MjUzMzU2MQ==&mid=2247483716&idx=1&sn=7f8ad39a69f9750c56679b2e6169fd9a&chksm=ea48f992dd3f7084cb05c30187c89cd7f513e65a821173a2d8b3f265048fc859b228344f647d#rd)
+
+[2.记录点播网站视频格式文件维护方法](https://mp.weixin.qq.com/s?__biz=MzI2MjUzMzU2MQ==&mid=2247483820&idx=1&sn=264864e8edacb0cd3c378750fe8c9a62&chksm=ea48f97add3f706cdeac15669c736babadf887ea34d4fd95534ec94aec3b7166d2608379a386&token=1457394810&lang=zh_CN#rd)
 
 ##　2.主机硬件维护
 
@@ -71,18 +79,22 @@ for /f "delims=" %%i in ('dir /s/b *.*') do (
 
 [1.记录解决安装VMware报错Microsoft Runtime DLL安装程序未能完成...](https://mp.weixin.qq.com/s?__biz=MzI2MjUzMzU2MQ==&mid=2247483760&idx=1&sn=191e4f693a5389ac37e061d763c400fd&chksm=ea48f9a6dd3f70b0a7fac27e16ed593a8b56b9189d9ef0c1c3e1908062b74198ed22f41ca21f#rd)
 
+[2.windows系统 快捷键win+E 后出现 "未指定错误" 解决方法](https://www.toutiao.com/article/7417401315820651034/)
+
 # 八、研究指标监控笔记
 
 ## 1.指标监控Linux
 ## 2.指标监控windows
 
+[1.Windows下７款我喜欢的监控主机存活软件工具推](https://mp.weixin.qq.com/s?__biz=MzI2MjUzMzU2MQ==&mid=2247483710&idx=1&sn=341f5b24421f39b0bd1f9027502de0bb&chksm=ea48f9e8dd3f70fe301ec645f516a8a6996d56bf32c64407fb4ff0671d076fb6c3b9c316bdb7#rd)
+
 # 九、实施部署手册
 
 # 十、运维服务参考笔记
 
-[关于我](https://mp.weixin.qq.com/s?__biz=MzI2MjUzMzU2MQ==&mid=2247483808&idx=1&sn=3a71afb038e39b4367254215a8b17be8&chksm=ea48f976dd3f7060dc2dc2b84904dc92429b6a0fbf21115f0d4d6d91f312e0133cd179fe0e37#rd) 
+* <font size=5>[关于我](https://mp.weixin.qq.com/s?__biz=MzI2MjUzMzU2MQ==&mid=2247483808&idx=1&sn=3a71afb038e39b4367254215a8b17be8&chksm=ea48f976dd3f7060dc2dc2b84904dc92429b6a0fbf21115f0d4d6d91f312e0133cd179fe0e37#rd) </font>
 
-[我的博客网站 tomx.top](http://tomx.top) 
+* <font size=5>[我的博客网站 tomx.top](http://tomx.top) </font>
 
 
 
